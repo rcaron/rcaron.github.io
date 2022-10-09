@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Rob Caron"
+title                    : "Hacek"
 title_separator          : "-"
 name                     : "Rob Caron"
 description              : "Blah Blah Blah."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rcaron.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am me."
   location         : "Woodinville, WA, USA"
-  email            :
+  email            : "rob@hacek.com"
   uri              :
   bitbucket        :
   codepen          :
