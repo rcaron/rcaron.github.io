@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Hacek"
 title_separator          : "-"
-name                     : "Rob Caron"
+name                     : "My GitHub.io site"
 description              : "Blah Blah Blah."
 url                      : https://rcaron.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
